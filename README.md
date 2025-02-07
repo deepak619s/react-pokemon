@@ -1,8 +1,43 @@
-# React + Vite
+# React-Pokemon
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Pokémon at Your Fingertips"
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+🎯 Smart PokéDex Search – Instantly find Pokémon by name.
+
+📋 Detailed Pokémon Stats – View height, weight, speed, and more.
+
+
+
+
+
+## Tech Stack
+
+**Client:**  Html, Css, React
+
+
+
+## Badges
+
+![HTML](https://img.shields.io/badge/HTML-5-blue)  
+![CSS](https://img.shields.io/badge/CSS-3-blue)  
+![React](https://img.shields.io/badge/React-19-blue)    
+
+
+
+
+## Documentation
+
+- React Official Documentation
+- MDN Web Docs (HTML, CSS, JavaScript)
+- React Hooks Guide
+
+
+
+
+## Link 
+
+https://pokeverse-react.netlify.app/
+
